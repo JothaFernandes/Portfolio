@@ -9,59 +9,51 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/java.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
-    "Inglês (iniciante)" 
+    "Inglês (iniciante)"
   ],
-  "portfolio": [
+  "projects": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
+      "name": "MJF GAMES",
+      "img": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/projects/project1.png",
+      "github": true,
+      "Functionality": [
+        "Listagem de favoritos",
+        "Carrinhos de compras ",
+        "Filtragem por categoria"
+      ]
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    }
-  ],
-  "professionalExperience": [
-    {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "POKEDEX",
+      "img": "https://raw.githubusercontent.com/digitalinnovationone/Portfolio/main/data/imgs/projects/project2.png",
+      "github": true,
+      "functionalitys": [
+        "Listagem dos Pokémons",
+        "Detalhes dos Pokémons",
+        "Filtragem por nome e categoria"
+      ]
     }
   ]
 }
