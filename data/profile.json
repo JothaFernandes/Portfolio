@@ -37,7 +37,7 @@
   "projects": [
     {
       "name": "MJF GAMES",
-      "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/imgs/projects/project1.png",
+      "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/projects/project1.png",
       "description" : "Site de jogo para se divertir",
       "github": "https://github.com/JothaFernandes/MJF-Games",
       "Functionalitys": [
@@ -48,7 +48,7 @@
     },
     {
       "name": "POKEDEX",
-      "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/imgs/projects/project2.png",
+      "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/projects/project2.png",
       "description" : "Enciclopédia de informações e estatísticas pokémons",
       "github": "https://github.com/JothaFernandes/MJF-Games",
       "functionalitys": [
