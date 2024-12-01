@@ -40,7 +40,7 @@
       "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/projects/project1.png",
       "description" : "Site de jogo para se divertir",
       "github": "https://github.com/JothaFernandes/MJF-Games",
-      "Functionalitys": [
+      "functionalitys": [
         "Listagem de favoritos",
         "Carrinhos de compras ",
         "Filtragem por categoria"
@@ -50,7 +50,7 @@
       "name": "POKEDEX",
       "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/projects/project2.png",
       "description" : "Enciclopédia de informações e estatísticas pokémons",
-      "github": "https://github.com/JothaFernandes/MJF-Games",
+      "github": "https://github.com/JothaFernandes/pokedex",
       "functionalitys": [
         "Listagem dos Pokémons",
         "Detalhes dos Pokémons",
