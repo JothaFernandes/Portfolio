@@ -38,6 +38,7 @@
     {
       "name": "MJF GAMES",
       "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/imgs/projects/project1.png",
+      "description" : "Site de jogo para se divertir",
       "github": true,
       "Functionality": [
         "Listagem de favoritos",
@@ -48,6 +49,7 @@
     {
       "name": "POKEDEX",
       "img": "https://raw.githubusercontent.com/JothaFernandes/Portfolio/main/data/imgs/projects/project2.png",
+      "description" : "Enciclopédia de informações e estatísticas pokémons",
       "github": true,
       "functionalitys": [
         "Listagem dos Pokémons",
